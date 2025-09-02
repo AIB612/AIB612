@@ -8,9 +8,9 @@
 
 ---
 
-### 👋 Hi, I'm [Your Name]
+### 👋 Hi, I'm Sherry
 
-I'm an engineer and researcher focused on **E-commerce AI**, **digital solutions**, and **child sexual education research**. I'm dedicated to bringing positive change to society through technology and knowledge, and I enjoy bridging different fields.
+I'm an product Manager and researcher focused on **E-commerce AI**, **digital solutions**, and **child sexual education research**. I'm dedicated to bringing positive change to society through technology and knowledge, and I enjoy bridging different fields.
 
 ---
 
