@@ -1,13 +1,3 @@
----
-
-### 📰 Latest Updates
-
-✨ [Aug 2025] Launched an **E-commerce AI Project**, Checking -> 
-💡 [Jul 2025] **Product X Digital Solutions** Checking -> 
-📚 [Jul 2025] Initiated the **Child Sexual Education Research Project**, Checking -> 
-
----
-
 ### 👋 Hi, I'm Sherry
 
 I'm an product Manager and researcher focused on **E-commerce AI**, **digital solutions**, and **child sexual education research**. I'm dedicated to bringing positive change to society through technology and knowledge, and I enjoy bridging different fields.
@@ -16,13 +6,13 @@ I'm an product Manager and researcher focused on **E-commerce AI**, **digital so
 
 ### 🛠️ Featured Projects & Contributions
 
-* 👩🏻‍💻 **E-commerce AI**: Smart solutions focused on improving e-commerce operational efficiency and user shopping experience.
-* 🚀 **Product X Digital Solutions**: Utilizing innovative technology to provide customized digital solutions for various industries.
-* 💡 **Child Sexual Education Research**: Dedicated to providing scientific and accessible sexual education content for children and parents.
+* 👩🏻‍💻 **E-commerce AI**: Smart solutions focused on improving e-commerce and Storage Management  Checking -> 
+* 🚀 **Product X Digital Solutions**:innovative technology and User experience in Digital word   Checking -> 
+* 💡 **Child Sexual Education Research**: sexual education content for children and parents.  Checking -> 
 
 ---
 
-### 🎯 Goal: Financial Freedom & Retirement by 40
+### 🎯 Goal: Financial Freedom & Retirement by 40   Calculation  ->  
 
 | Goal Stage | Planned Completion | Progress |
 | :--- | :--- | :--- |
