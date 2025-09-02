@@ -2,9 +2,9 @@
 
 ### 📰 Latest Updates
 
-✨ [Aug 2025] Launched an **E-commerce AI Project**, providing intelligent recommendation and inventory management solutions for e-commerce platforms.
-💡 [Jul 2025] **Product X Digital Solutions** successfully went live, enhancing customer experience and operational efficiency.
-📚 [Jul 2025] Initiated the **Child Sexual Education Research Project**, aiming to provide scientific and healthy educational guidance for the public.
+✨ [Aug 2025] Launched an **E-commerce AI Project**, Checking -> 
+💡 [Jul 2025] **Product X Digital Solutions** Checking -> 
+📚 [Jul 2025] Initiated the **Child Sexual Education Research Project**, Checking -> 
 
 ---
 
